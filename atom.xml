@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-11-04T10:00:50.701Z</updated>
+  <updated>2023-11-04T15:53:11.227Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>blog 1</title>
+    <link href="http://example.com/2023/11/04/blog-1/"/>
+    <id>http://example.com/2023/11/04/blog-1/</id>
+    <published>2023-11-04T15:47:12.000Z</published>
+    <updated>2023-11-04T15:53:11.227Z</updated>
+    
+    <content type="html"><![CDATA[<p>写博客是为了记录自己平时的生活点滴，一些自己学到的技能及解决问题的方法经验。拥有一个自己的独立博客，不会受平台限制，文章被删除，我的网站<a href="https://daqingdina.github.io/">https://daqingdina.github.io/</a> 就是为了记录平时工作遇到的问题，好将来遇到同样的问题可以查阅，我们也可以转载其它一些优秀的对自己有帮助的文章来学习，不用到各种网站里去找，把自己遇到的问题在自己博客做一个整合。<br>比如今天11.4，我就记录了一些关于CTF的内容（被迫）<br>CTF竞赛是指Capture The Flag（夺旗）竞赛，是一种网络安全技术竞赛。在CTF竞赛中，参赛者需要通过解决一系列与网络安全相关的题目来获取旗帜（Flag），并提交给竞赛组织者以获得积分。</p><p>CTF竞赛的题目通常涵盖密码学、网络安全、逆向工程、漏洞利用等多个领域。参赛者需要具备一定的技术知识和技能，如二进制分析、漏洞挖掘、密码学算法等。他们需要通过分析和解决题目，找到隐藏在系统中的漏洞或密码，从而获取旗帜。</p><p>CTF竞赛的目的是提高参赛者在网络安全领域的技术能力和解决问题的能力。这种竞赛形式可以激发参赛者的学习兴趣，促进知识的分享和交流。同时，CTF竞赛也被广泛应用于培养网络安全人才和评估安全技术的水平。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;写博客是为了记录自己平时的生活点滴，一些自己学到的技能及解决问题的方法经验。拥有一个自己的独立博客，不会受平台限制，文章被删除，我的网站&lt;a href=&quot;https://daqingdina.github.io/&quot;&gt;https://daqingdina.github.io/</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Ta</title>
