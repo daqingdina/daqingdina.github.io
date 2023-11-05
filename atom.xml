@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-11-04T15:53:11.227Z</updated>
+  <updated>2023-11-05T05:14:48.841Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>blog 2.1</title>
+    <link href="http://example.com/2023/11/05/blog-2-1/"/>
+    <id>http://example.com/2023/11/05/blog-2-1/</id>
+    <published>2023-11-05T05:10:42.000Z</published>
+    <updated>2023-11-05T05:14:48.841Z</updated>
+    
+    <content type="html"><![CDATA[<p>Markdown 标题语法<br>要创建标题，请在单词或短语前面添加井号 (#) 。# 的数量代表了标题的级别。例如，添加三个 # 表示创建一个三级标题 (<h3>) (例如：### My Header)。</p><p>Markdown 标题语法<br>要创建标题，请在单词或短语前面添加井号 (#) 。# 的数量代表了标题的级别。例如，添加三个 # 表示创建一个三级标题 (<h3>) (例如：### My Header)。</p><p>最佳实践<br>不同的 Markdown 应用程序处理 # 和标题之间的空格方式并不一致。为了兼容考虑，请用一个空格在 # 和标题之间进行分隔。</p><p>✅  Do this</p><h1 id="Here’s-a-Heading"><a href="#Here’s-a-Heading" class="headerlink" title="Here’s a Heading"></a>Here’s a Heading</h1><p>❌  Don’t do this<br>#Here’s a Heading</p><p>（级别高，标题越大）</p><p>Markdown 段落<br>要创建段落，请使用空白行将一行或多行文本进行分隔。</p><p>段落（Paragraph）用法的最佳实<br>不要用空格（spaces）或制表符（ tabs）缩进段落。</p><p>✅  Do this<br>Don’t put tabs or spaces in front of your paragraphs.</p><p>Keep lines left-aligned like this.<br>❌  Don’t do this</p><pre><code>This can result in unexpected formatting problems.</code></pre><p>  Don’t add tabs or spaces in front of paragraphs.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Markdown 标题语法&lt;br&gt;要创建标题，请在单词或短语前面添加井号 (#) 。# 的数量代表了标题的级别。例如，添加三个 # 表示创建一个三级标题 (&lt;h3&gt;) (例如：### My Header)。&lt;/p&gt;
+&lt;p&gt;Markdown 标题语法&lt;br&gt;要创建标题，请在单</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>blog 1</title>
